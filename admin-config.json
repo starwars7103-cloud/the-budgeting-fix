@@ -1,0 +1,20 @@
+{
+  "maintenanceMode": false,
+  "maintenanceMessage": "We're updating the app — back soon! Check back in a few minutes.",
+  "announcementActive": false,
+  "announcement": "",
+  "minimumVersion": "1.0.0",
+  "promoCodesEnabled": true,
+  "featuresEnabled": {
+    "pdfImport": true,
+    "csvImport": true,
+    "recurringDetection": true,
+    "spendingHistory": true,
+    "aiCategorization": true
+  },
+  "promoCodes": {
+    "AUNT6FREE": { "months": 6, "active": true },
+    "FRIEND3FREE": { "months": 3, "active": true },
+    "LAUNCH30": { "months": 1, "active": true }
+  }
+}
